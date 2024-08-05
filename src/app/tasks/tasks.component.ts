@@ -29,6 +29,4 @@ export class TasksComponent {
   onCloseAddTask() {
     this.isAddingTask = false;
   }
-
-  onCompleteTask(id: string) {}
 }
